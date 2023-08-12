@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849484403862",
+    "project_id": "fir-bus-tracker-cfe83",
+    "storage_bucket": "fir-bus-tracker-cfe83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849484403862:android:afde93f75d5aadfa8f1eb7",
+        "android_client_info": {
+          "package_name": "com.demobus.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849484403862-oapkq76iitr431ndvdsmsppse70useue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzHbR5mLVR7A9w95dhhnuzBJOuRS5gXHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849484403862-oapkq76iitr431ndvdsmsppse70useue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
